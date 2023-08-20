@@ -1,4 +1,4 @@
 # projects
 
 ##
-Coming soon
+Projects related to web development (Frontend)
